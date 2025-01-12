@@ -55,4 +55,4 @@
 			<url>${MAVEN_PKG_REPO_URL}</url>
 		</repository>
 	</distributionManagement>
-
+</project>
